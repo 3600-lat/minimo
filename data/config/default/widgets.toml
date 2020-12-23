@@ -3,13 +3,17 @@ title = ""
 description = ""
 logo = "/images/logo.png"
 
+[breadcrumbs]
+separator = "/"
+excludeParents = ["page"]
+
 [recent_posts]
 title = ""
 length = 5
 excludeTypes = ["page"]
 
 [search]
-title = "Search"
+title = ""
 
 [sidebar_menu]
 title = ""
